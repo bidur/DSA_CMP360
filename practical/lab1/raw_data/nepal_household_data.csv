@@ -1,0 +1,17 @@
+
+household_id,district,family_size,monthly_income_npr,education_level,wealth_index,water_source,has_electricity,interview_date
+1,Kathmandu,5,45000,Secondary,2.1,"Tap water",Yes,2023-01-15
+2,Bhaktapur,4,,Higher,1.8,"Tap water",Yes,2023-01-16
+3,Lalitpur,6,38000,Secondary,2.3,"Tube well",No,2023-01-17
+4,Kathmandu,3,52000,Primary,2.5,"tap water",Yes,2023-01-18
+5,Kaski,7,28000,Secondary,1.9,"Well",Yes,2023-01-19
+6,Kathmandu,5,1200000,University,4.2,"Tap water",Yes,2023-01-20
+7,Chitwan,4,32000,secondary,2.0,"River",No,2023-01-21
+8,Kathmandu,5,48000,Secondary,2.1,"Tap water",Yes,2023-01-22
+9,Makwanpur,6,,Illiterate,1.5,"Well",No,2023-02-01
+10,Kathmandu,25,45000,Secondary,2.1,"Tap water",Yes,2023-02-02
+11,Morang,5,42000,Middle,2.2,"Tap water",Yes,2023-02-03
+12,Sunwari,4,38000,Primary,,Well,No,2023-02-04
+13,Kathmandu,4,46000,Secondary,2.3,"Tap water",Yes,2023-02-05
+14,Kathmandu,4,46000,Secondary,2.3,"Tap water",Yes,2023-02-05
+15,Jhapa,5,41000,Middle,2.1,"Tube well",Yes,2023-02-06

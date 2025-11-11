@@ -1,0 +1,11 @@
+
+district,has_hospital,road_density,electrification_rate
+Kathmandu,Yes,0.85,98.5
+Bhaktapur,Yes,0.72,95.2
+Lalitpur,Yes,0.68,96.8
+Kaski,Yes,0.61,89.7
+Chitwan,Yes,0.58,87.3
+Makwanpur,No,0.42,78.9
+Morang,Yes,0.55,84.2
+Sunwari,No,0.38,76.5
+Jhapa,Yes,0.59,86.1
